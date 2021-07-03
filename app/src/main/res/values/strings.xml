@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Feed Your Pig</string>
+    <!--    Keys    -->
+    <string name="version_maze">version_maze</string>
+    <string name="maze">maze</string>
+    <string name="number_of_ad_impressions">number_of_ad_impressions</string>
+    <string name="music">music</string>
+    <string name="sound">sound</string>
+    <string name="dl_music">Music</string>
+    <string name="dl_sound">Sound</string>
+</resources>
